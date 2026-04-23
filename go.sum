@@ -452,6 +452,8 @@ github.com/zricethezav/gitleaks/v8 v8.30.0 h1:5heLlxRQkHfXgTJgdQsJhi/evX1oj6i+xB
 github.com/zricethezav/gitleaks/v8 v8.30.0/go.mod h1:M5JQW5L+vZmkAqs9EX29hFQnn7uFz9sOQCPNewaZD9E=
 github.com/zricethezav/gitleaks/v8 v8.30.1 h1:PmEvCfVI7ti9dV3s5aMZUY7sS2GxRvG3yzih7E+cS3w=
 github.com/zricethezav/gitleaks/v8 v8.30.1/go.mod h1:rTDwxRjufMKAkhTI/Mijd07nday1yOhf9qywjwz5Irw=
+github.tools.sap/kyma/neighbors-contracts v0.0.0-20260423060355-772d2d4813ec h1:soxd6ldyTYZu7nrMR3Rjogk1mU6mw0/RKYMvzP6/rn4=
+github.tools.sap/kyma/neighbors-contracts v0.0.0-20260423060355-772d2d4813ec/go.mod h1:ZF8uRctykUF09q+2kUCw2eCUhb1ox2S1fCO5t0n7NMk=
 go.einride.tech/aip v0.79.0 h1:19zdPlZzlUvxOA8syAFw4LkdJdXepzyTl6gt9XEeqdU=
 go.einride.tech/aip v0.79.0/go.mod h1:E8+wdTApA70odnpFzJgsGogHozC2JCIhFJBKPr8bVig=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
